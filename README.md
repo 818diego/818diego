@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Danonino7u7/danonino7u7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">I'm Diego</h1>
+### <h1 align="center">Hi there 👋, I'm Diego</h1>
 <h3 align="center">Passionate about software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danonino7u7&label=Profile%20views&color=0e75b6&style=flat" alt="danonino7u7" /> </p>
