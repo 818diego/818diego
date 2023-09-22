@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 ### <h1 align="center">Hi there 👋, I'm Diego</h1>
 <h3 align="center">Passionate about software development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danonino7u7&label=Profile%20views&color=0e75b6&style=flat" alt="danonino7u7" /> </p>
-
 - 🌱 I’m currently learning **JavaScript, Lua and Framerworks for Front-End**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danonino7u7](https://github.com/Danonino7u7)
