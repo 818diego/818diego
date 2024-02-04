@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **JavaScript, Lua and Framerworks for Front-End**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Danonino7u7](https://github.com/Danonino7u7)
+- 👨‍💻 All of my projects are available at [https://github.com/Danonino7u7](https://github.com/818diego)
 
 - 💬 Ask me about **what you need**
 
