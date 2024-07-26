@@ -9,9 +9,5 @@
 
 ###
 
-<a href="https://github.com/818diego/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=818diego&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/818diego/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=818diego&repo=convoychat" />
-</a>
+[![Diego](https://github-readme-stats.vercel.app/api/wakatime?username=818diego)](https://github.com/818diego/github-readme-stats)
+
