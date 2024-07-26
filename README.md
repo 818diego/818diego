@@ -9,5 +9,3 @@
 
 ###
 
-[![Diego](https://github-readme-stats.vercel.app/api/wakatime?username=818diego)](https://github.com/818diego/github-readme-stats)
-
