@@ -16,9 +16,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=818diego&theme=radical" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=818diego&theme=radical" alt="GitHub Trophies" />
 </div>
-
-### Contribution Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=818diego&theme=redical" alt="Contribution Graph" />
-</div>
