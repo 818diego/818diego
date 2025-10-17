@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Diego</h1>
 <h3 align="center">Passionate about software development</h3>
 
-- 💻 I’m currently learning **JavaScript, Lua and Frameworks for Front-End**
+- 💻 I’m currently learning **Angular, Lua and Frameworks for Front-End**
 
 - 👨‍💻 All of my projects are available at [https://github.com/818diego](https://github.com/818diego)
 
-- 📫 How to reach me **diego.merino@uabc.edu.mx**
+- 📫 How to reach me **diego.fmerinoh@gmail.com**
 
 ---
 
