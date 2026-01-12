@@ -10,9 +10,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=818diego&label=Profile%20views&color=0e75b6&style=flat" alt="818diego" /> </p>
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=818diego&show_icons=true&theme=highcontrast" />
-</p>
-
